@@ -1,0 +1,2 @@
+# wikipedia-page-comparison
+Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia. This program was created using the wikipedia module. The program takes two inputs from the user ,for the names of the pages to be compared. Then python extracts data from the wikipedia page and runs a similarity check to display the similarity as percentage. The program also prints the images available on the wikipedia page.
